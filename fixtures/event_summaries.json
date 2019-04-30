@@ -1,0 +1,11 @@
+{
+  "type": "event.list",
+  "events": [
+    {
+      "count": 1234
+    },
+    {
+      "count": 5678
+    }
+  ]
+}
